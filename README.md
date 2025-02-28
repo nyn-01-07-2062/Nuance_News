@@ -77,8 +77,8 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-news-aggregator.git
-   cd ai-news-aggregator
+   git clone https://github.com/nyn-01-07-2062/Nuance_News
+   cd Nuance
    ```
 
 2. **Set up the backend**:
